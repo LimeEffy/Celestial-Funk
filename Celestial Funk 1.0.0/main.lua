@@ -26,7 +26,6 @@ AltTexture({
       'c_eris',
     },
     original_sheet = 'true',
-    display_pos = 'c_saturn'
 })
 AltTexture({
   key = 'black_hole_tex',
@@ -50,7 +49,9 @@ AltTexture({
     'p_celestial_jumbo_2',
     'p_celestial_mega_1',
     'p_celestial_mega_2'
-  }
+  },
+  original_sheet = 'true',
+  display_pos = 'p_celestial_jumbo_1'
 })
 
 TexturePack({
