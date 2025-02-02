@@ -25,10 +25,7 @@ AltTexture({
       'c_ceres',
       'c_eris',
     },
-    original_sheet = 'true',
-    loc_txt = {
-      name = 'Funky Planets'
-    }
+    original_sheet = 'true'
 })
 AltTexture({
   key = 'black_hole_tex',
@@ -37,10 +34,7 @@ AltTexture({
   keys = {
     'c_black_hole',
   },
-  original_sheet = 'true',
-  loc_txt = {
-    name = 'Funky Black Hole'
-  }
+  original_sheet = 'true'
 })
 AltTexture({
   key = 'celestial_tex',
@@ -57,10 +51,7 @@ AltTexture({
     'p_celestial_mega_2'
   },
   original_sheet = 'true',
-  display_pos = 'p_celestial_jumbo_1',
-  loc_txt = {
-    name = 'Celestial Funky Pack'
-  }
+  display_pos = 'p_celestial_jumbo_1'
 })
 
 TexturePack({
