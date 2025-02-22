@@ -11,4 +11,4 @@ Includes the retexture of 12 Planets, 8 Celestial Packs, and Black Hole Spectral
 Needs [Malverk](https://github.com/Eremel/Malverk) as Dependency, otherwise you can manually download and replace the textures within the game files
 
 ---
-Want to reach out for questions? Contact Lime_Effy on Discord or [@Lime_Effy](https://x.com/Lime_Effy) on X
+Want to reach out for questions? Contact lime_effy on Discord or [@Lime_Effy](https://x.com/Lime_Effy) on X
