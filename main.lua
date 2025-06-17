@@ -4,7 +4,7 @@
 --- PREFIX: lep
 --- MOD_AUTHOR: [Lime_Effy]
 --- MOD_DESCRIPTION: Funk up your Planets
---- VERSION: 1.0.2
+--- VERSION: 1.0.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
@@ -64,12 +64,27 @@ AltTexture({
   }
 })
 
+table.insert(Malverk.keys.Planet, 'c_mp_asteroid')
+
+AltTexture({
+    key = 'planets_mp_tex',
+    set = 'Planet',
+    path = 'LEAsteroid.png',
+    keys = {
+      'c_mp_asteroid'
+    },
+    loc_txt = {
+      name = 'Cyber Brutalist Asteroid'
+    }
+})
+
 TexturePack({
     key = 'lep_planets_pack',
     textures = {
       'lep_celestial_tex',
       'lep_planets_tex',
       'lep_black_hole_tex',
+      'lep_planets_mp_tex',
     },
     loc_txt = {
       name = 'Celestial Funk',
